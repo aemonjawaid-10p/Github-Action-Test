@@ -17,6 +17,9 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Hellow worlgit a");
         System.out.println("Hellow worlgit a");
         System.out.println("Hellow worlgit a");
+        System.out.println("Hellow worlgit a");
+
+        System.out.println("Hellow worlgit a");
 
     }
 }
