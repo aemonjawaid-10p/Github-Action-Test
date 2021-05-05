@@ -14,7 +14,5 @@ public class MainActivity extends AppCompatActivity {
         String s;
         s = "Some string";
         System.out.println(s);
-        //it is a comment
-        //here is another commentgit
     }
 }
