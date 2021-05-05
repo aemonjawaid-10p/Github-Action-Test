@@ -12,14 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String s;
-        s = "Some string";
-        System.out.println(s);
-        System.out.println("Hellow worlgit a");
-        System.out.println("Hellow worlgit a");
-        System.out.println("Hellow worlgit a");
-        System.out.println("Hellow worlgit a");
-
-        System.out.println("Hellow worlgit a");
 
     }
 }
