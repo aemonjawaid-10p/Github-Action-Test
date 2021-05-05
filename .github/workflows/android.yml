@@ -16,7 +16,7 @@ jobs:
         distribution: 'adopt'
         
     - name: Android Lint
-      run: ./gradlew lint
+      run: ./gradlew lintDebug 
     
     - name: Run Test
       run: ./gradlew test
