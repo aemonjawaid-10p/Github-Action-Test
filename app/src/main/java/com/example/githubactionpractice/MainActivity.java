@@ -15,5 +15,8 @@ public class MainActivity extends AppCompatActivity {
         s = "Some string";
         System.out.println(s);
         System.out.println("Hellow worlgit a");
+        System.out.println("Hellow worlgit a");
+        System.out.println("Hellow worlgit a");
+
     }
 }
