@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         String s;
         s = "Some string";
+        System.out.println(s);
     }
-}git
+}
