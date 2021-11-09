@@ -12,11 +12,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String s;
-        s = "hello jeee";
+        s = "hello jee";
         System.out.println(s);
         System.out.println(s);
         System.out.println(s);
 
     }
-    git
 }
